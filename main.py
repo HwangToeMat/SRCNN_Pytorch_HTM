@@ -14,7 +14,7 @@ import math
 # Training settings
 parser = argparse.ArgumentParser(description="PyTorch SRCNN")
 parser.add_argument("--batchSize", type=int, default=128)
-parser.add_argument("--nEpochs", type=int, default=100)
+parser.add_argument("--nEpochs", type=int, default=1000)
 parser.add_argument("--lr", type=float, default=999999)
 parser.add_argument("--cuda", action="store_true")
 parser.add_argument("--start-epoch", default=1, type=int)
