@@ -4,7 +4,7 @@
 
 ## 모델 구조
 
-<img src="https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/assets/img/thumbnail/pr-1.jpg?raw=true" style="max-width:100%;margin-left: auto; margin-right: auto; display: block;">
+<img src="https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/assets/img/thumbnail/pr-1-1.jpg?raw=true" style="max-width:100%;margin-left: auto; margin-right: auto; display: block;">
 
 그림과 같이 3개의 layer로 이루어져있고, 각각 9\*9, 1\*1, 5\*5사이즈의 커널로 이루어져 있다. 저해상도의 이미지가 3개의 layer를 지나 고해상도의 이미지를 출력하게 된다.
 
